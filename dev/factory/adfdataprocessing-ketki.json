@@ -1,0 +1,15 @@
+{
+	"name": "adfdataprocessing-ketki",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d90fbc09-31ce-4ea3-92da-015ce33f78b8",
+		"tenantId": "41fad09a-9ed7-4203-b94d-b7f522486081"
+	}
+}
