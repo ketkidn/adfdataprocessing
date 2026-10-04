@@ -1,0 +1,18 @@
+{
+	"name": "sinkJson",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sinkJson",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "apidata"
+			}
+		},
+		"schema": {}
+	}
+}
