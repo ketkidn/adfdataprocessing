@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "ttps://randomuser.me/api/?results=50",
+			"url": "https://randomuser.me/api/?results=50",
 			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		}
